@@ -11,9 +11,10 @@ SleepyBeans is your go-to app for getting a restful night’s sleep while enjoyi
 🌟 User-Friendly Design: Enjoy a sleek and intuitive interface designed for a smooth and enjoyable experience.
 📈 Accurate Calculations: Advanced algorithms provide precise bedtime recommendations based on your input for the best possible rest.
 💬 Friendly Feedback: Receive clear and helpful feedback on your bedtime calculation with easy-to-understand results.
-Screenshots
 
+## Screenshots
 
+<img width="1440" alt="Screenshot 2024-07-17 at 3 33 22 AM" src="https://github.com/user-attachments/assets/ba083f2c-d3a8-40cc-b5c8-3d81e233bf59">
 
 ## Technologies Used
 
