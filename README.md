@@ -18,30 +18,29 @@ SleepyBeans is your go-to app for getting a restful night’s sleep while enjoyi
 
 ## Technologies Used
 
-SwiftUI: Built using SwiftUI for a modern and responsive user interface.
-Xcode: Developed in Xcode, the top choice for creating high-quality apps for iOS.
-Swift: Written in Swift for optimal performance and reliability.
-Download
+SwiftUI: Built using SwiftUI for a modern and responsive user interface.  
+Xcode: Developed in Xcode, the top choice for creating high-quality apps for iOS.  
+Swift: Written in Swift for optimal performance and reliability.  
 
 
 ## Getting Started
 
-Prerequisites
-Xcode 12 or later
-iOS 14.0 or later
+### Prerequisites  
+Xcode 12 or later  
+iOS 14.0 or later  
 
 ## Usage
 
-Set Your Wake-Up Time: Use the date picker to select when you want to wake up.
-Select Desired Sleep Duration: Use the stepper to choose how many hours of sleep you aim to get.
-Track Coffee Intake: Use the stepper to input the number of cups of coffee you drink per day.
-Calculate Bedtime: Tap the "Calculate" button to get your personalized bedtime recommendation.
+Set Your Wake-Up Time: Use the date picker to select when you want to wake up.  
+Select Desired Sleep Duration: Use the stepper to choose how many hours of sleep you aim to get.  
+Track Coffee Intake: Use the stepper to input the number of cups of coffee you drink per day.  
+Calculate Bedtime: Tap the "Calculate" button to get your personalized bedtime recommendation.  
 
 ## Connect with Me
 
-Email: priyankshu.sheet123@gmail.com
-LinkedIn: www.linkedin.com/in/priyankshusheet
-GitHub: https://github.com/priyankshusheet
+Email: priyankshu.sheet123@gmail.com  
+LinkedIn: www.linkedin.com/in/priyankshusheet  
+GitHub: https://github.com/priyankshusheet  
 
 ## Contributing
 
