@@ -6,11 +6,11 @@ SleepyBeans is your go-to app for getting a restful night’s sleep while enjoyi
 
 ## Features
 
-🛏️ Tailored Bedtime Recommendations: Input your wake-up time, desired hours of sleep, and daily coffee intake to get a personalized bedtime suggestion.
-☕️ Coffee Intake Management: Track your daily coffee consumption and see how it affects your sleep schedule with easy-to-use sliders and options.
-🌟 User-Friendly Design: Enjoy a sleek and intuitive interface designed for a smooth and enjoyable experience.
-📈 Accurate Calculations: Advanced algorithms provide precise bedtime recommendations based on your input for the best possible rest.
-💬 Friendly Feedback: Receive clear and helpful feedback on your bedtime calculation with easy-to-understand results.
+🛏️ Tailored Bedtime Recommendations: Input your wake-up time, desired hours of sleep, and daily coffee intake to get a personalized bedtime suggestion.  
+☕️ Coffee Intake Management: Track your daily coffee consumption and see how it affects your sleep schedule with easy-to-use sliders and options.  
+🌟 User-Friendly Design: Enjoy a sleek and intuitive interface designed for a smooth and enjoyable experience.  
+📈 Accurate Calculations: Advanced algorithms provide precise bedtime recommendations based on your input for the best possible rest.  
+💬 Friendly Feedback: Receive clear and helpful feedback on your bedtime calculation with easy-to-understand results.  
 
 ## Screenshots
 
